@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+}
+span{
+    display: block;
+}
+
+.circle{
+margin: 100px auto 100px;
+text-align: center;
+}
+
+.button{
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 75px;
+    display: inline-block;
+}
+
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+
+#red{
+    background-color: red;
+}
